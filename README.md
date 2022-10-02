@@ -14,5 +14,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mychhh&show_icons=true&locale=en&layout=compact" alt="mychhh" /></p>
 <br/>
-<hr/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mychhh&show_icons=true&locale=en" alt="mychhh" /></p>
