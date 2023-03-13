@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-I'm **Michael**, aspiring **Web Developer**. 
+I'm **Michael**, aspiring **Software Developer**. 
 
 [![GitHub Mychhh](https://img.shields.io/github/followers/Mychhh?label=follow&style=social)](https://github.com/Mychhh)
 
-I am an aspiring Web Developer. I have always had a passion for technology and the way it can change the world. I am excited to learn and grow as a developer and to be able to use my skills to create innovative and user-friendly websites and applications.
+I am an aspiring Software Developer. I have always had a passion for technology and the way it can change the world. I am excited to learn and grow as a developer and to be able to use my skills to create innovative and user-friendly software and applications.
 
 ---
 
