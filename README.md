@@ -21,7 +21,7 @@ I am a results-driven **Software Developer** with a focus on building robust, sc
 ### 📫 Let's Connect!
 
 * **Portfolio:** [View My Work](https://portfolio-website-nvdg-mychhhs-projects.vercel.app/)
-* **Email:** [michaeldrpabaya@gmail.com](mailto:michaeldrpabaya@gmail.com)
+* **Email:** [mychhh](mailto:michaeldrpabaya@gmail.com)
 * **Location:** BGC - Taguig City, Metro Manila, Philippines
 
 *"Building clean, efficient, and compliant code one commit at a time."*
